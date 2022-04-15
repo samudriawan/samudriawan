@@ -2,7 +2,7 @@
 
 Hi, I'm Dyota Samudriawan, a Junior Frontend Developer from Indonesia.
 
-🌱 I’m currently learning jQuery and ReactJS; <br/>
+🌱 I’m currently learning ReactJS; <br/>
 🔭 I’m currently looking for a job ;<br/>
 💬 Ask me about anything, I love to talk and listening to people; <br/>
 🧩 Hobby: reading (mostly tech stuff), playing a video games, watching YouTube (mostly tech stuff);<br/>
