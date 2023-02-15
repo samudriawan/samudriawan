@@ -5,9 +5,9 @@ Hi, I'm Dyota Samudriawan, a Junior Frontend Developer from Indonesia.
 🌱 I’m currently learning ReactJS; <br/>
 🔭 I’m currently looking for a job ;<br/>
 💬 Ask me about anything, I love to talk and listening to people; <br/>
-🧩 Hobby: reading (mostly tech stuff), playing a video games, watching YouTube (mostly tech stuff);<br/>
+🧩 Hobby: reading (mostly tech stuff), computer stuff, playing a video games, automotive;<br/>
 📫 How to reach me: [Email](samudriawan@yahoo.co.id) | [Linkedin](https://id.linkedin.com/in/dyota-samudriawan);<br/>
-📋 [resume](https://drive.google.com/file/d/1vxlIZjxwzhetC6Ej5Iud31DIvkm5ArzZ/view?usp=sharing)
+📋 [resume](https://drive.google.com/file/d/1brmq7k79wIWnxQPAPg0iFSyAYzsQpn4K/view?usp=sharing);
 
 
 <!--
