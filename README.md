@@ -2,7 +2,7 @@
 
 Hi, I'm Dyota Samudriawan, a Junior Web Developer from Indonesia.
 
-🌱 I’m currently learning ReactJS; <br/>
+🌱 I’m currently learning React.js, Typescript and Next.js; <br/>
 🔭 I’m currently looking for a job ;<br/>
 💬 Ask me about anything, I love to talk and listening to people; <br/>
 🧩 Hobby: reading (mostly tech stuff), computer stuff, playing a video games, automotive;<br/>
